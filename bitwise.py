@@ -1,0 +1,9 @@
+#--------------binary and------------------
+a=50
+b=25
+c=a&b
+print(c)
+#-------------binary right shift------------
+x=240
+y=x>>2
+print(y)
